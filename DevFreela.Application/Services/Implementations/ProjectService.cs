@@ -47,7 +47,7 @@ namespace DevFreela.Application.Services.Implementations
         {
             var projects = _dbContext.Projects;
             var projectViewModel = projects
-                .Select(p => new ProjectViewModel(p.Title, p.CreatedAt)).ToList();
+                .Select(p => new ProjectViewModel(p.Id, p.Title, p.CreatedAt)).ToList();
 
             return projectViewModel;
         }
@@ -55,6 +55,9 @@ namespace DevFreela.Application.Services.Implementations
         public ProjectDetailsViewModel GetById(int id)
         {
             var project = _dbContext.Projects.SingleOrDefault(x => x.Id == id);
+
+            if (project == null) return null;
+
             var projectDetailsViewModel = new ProjectDetailsViewModel(
                     project.Id,
                     project.Title,

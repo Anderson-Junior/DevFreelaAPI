@@ -27,3 +27,9 @@ E:\ESTUDOS .NET\Jornada .NET - LuisDev\DevFreela.API\DevFreela.API\obj\Debug\net
 E:\ESTUDOS .NET\Jornada .NET - LuisDev\DevFreela.API\DevFreela.API\obj\Debug\net5.0\ref\DevFreela.API.dll
 E:\ESTUDOS .NET\Jornada .NET - LuisDev\DevFreela.API\DevFreela.API\obj\Debug\net5.0\DevFreela.API.pdb
 E:\ESTUDOS .NET\Jornada .NET - LuisDev\DevFreela.API\DevFreela.API\obj\Debug\net5.0\DevFreela.API.genruntimeconfig.cache
+E:\ESTUDOS .NET\Jornada .NET - LuisDev\DevFreela.API\DevFreela.API\bin\Debug\net5.0\DevFreela.Application.dll
+E:\ESTUDOS .NET\Jornada .NET - LuisDev\DevFreela.API\DevFreela.API\bin\Debug\net5.0\DevFreela.Core.dll
+E:\ESTUDOS .NET\Jornada .NET - LuisDev\DevFreela.API\DevFreela.API\bin\Debug\net5.0\DevFreela.Infrastructure.dll
+E:\ESTUDOS .NET\Jornada .NET - LuisDev\DevFreela.API\DevFreela.API\bin\Debug\net5.0\DevFreela.Application.pdb
+E:\ESTUDOS .NET\Jornada .NET - LuisDev\DevFreela.API\DevFreela.API\bin\Debug\net5.0\DevFreela.Infrastructure.pdb
+E:\ESTUDOS .NET\Jornada .NET - LuisDev\DevFreela.API\DevFreela.API\bin\Debug\net5.0\DevFreela.Core.pdb
