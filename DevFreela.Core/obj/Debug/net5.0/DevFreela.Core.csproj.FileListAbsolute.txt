@@ -2,7 +2,6 @@ E:\ESTUDOS .NET\Jornada .NET - LuisDev\DevFreela.API\DevFreela.Core\bin\Debug\ne
 E:\ESTUDOS .NET\Jornada .NET - LuisDev\DevFreela.API\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.dll
 E:\ESTUDOS .NET\Jornada .NET - LuisDev\DevFreela.API\DevFreela.Core\bin\Debug\net5.0\ref\DevFreela.Core.dll
 E:\ESTUDOS .NET\Jornada .NET - LuisDev\DevFreela.API\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.pdb
-E:\ESTUDOS .NET\Jornada .NET - LuisDev\DevFreela.API\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.csproj.AssemblyReference.cache
 E:\ESTUDOS .NET\Jornada .NET - LuisDev\DevFreela.API\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.GeneratedMSBuildEditorConfig.editorconfig
 E:\ESTUDOS .NET\Jornada .NET - LuisDev\DevFreela.API\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.AssemblyInfoInputs.cache
 E:\ESTUDOS .NET\Jornada .NET - LuisDev\DevFreela.API\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.AssemblyInfo.cs
