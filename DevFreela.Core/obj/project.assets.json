@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ander\\.nuget\\packages\\": {}
+    "C:\\Users\\anderson.lemos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ESTUDOS .NET\\Jornada .NET - LuisDev\\DevFreela.API\\DevFreela.Core\\DevFreela.Core.csproj",
+      "projectUniqueName": "C:\\Users\\anderson.lemos\\Desktop\\Estudos .NET\\Curso Luis\\DevFreelaAPI\\DevFreela.Core\\DevFreela.Core.csproj",
       "projectName": "DevFreela.Core",
-      "projectPath": "E:\\ESTUDOS .NET\\Jornada .NET - LuisDev\\DevFreela.API\\DevFreela.Core\\DevFreela.Core.csproj",
-      "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-      "outputPath": "E:\\ESTUDOS .NET\\Jornada .NET - LuisDev\\DevFreela.API\\DevFreela.Core\\obj\\",
+      "projectPath": "C:\\Users\\anderson.lemos\\Desktop\\Estudos .NET\\Curso Luis\\DevFreelaAPI\\DevFreela.Core\\DevFreela.Core.csproj",
+      "packagesPath": "C:\\Users\\anderson.lemos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anderson.lemos\\Desktop\\Estudos .NET\\Curso Luis\\DevFreelaAPI\\DevFreela.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\anderson.lemos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
